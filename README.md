@@ -1,5 +1,6 @@
 # Convergent Evidential Protocol (CEP) v1.4
 **First Full-Scale Demonstration: Shroud of Turin Convergence Mapping**
+
 **Author:** Tyler Leroux  
 **Date:** June 2026  
 **Version:** 1.4
@@ -92,7 +93,7 @@ The goal of this repository is to function as a transparent **epistemic sandbox*
 
 If you use or reference this work, please cite:
 
-> Leroux, T. (2026). *Convergent Evidential Protocol (CEP) v1.4 – First Demonstration: Shroud of Turin Convergence Mapping*. https://github.com/[your-username]/convergent-evidential-protocol
+> Leroux, T. (2026). *Convergent Evidential Protocol (CEP) v1.4 – First Demonstration: Shroud of Turin Convergence Mapping*. https://github.com/convergent-epistemology/convergent-evidential-protocol
 
 ---
 
