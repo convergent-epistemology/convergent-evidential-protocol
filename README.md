@@ -4,6 +4,7 @@
 **Author:** Tyler Leroux  
 **Date:** June 2026  
 **Version:** 1.4
+
 This repository presents the **Convergent Evidential Protocol (CEP)** — a structured, quantitative, and fully auditable framework for evaluating complex, heterogeneous, multi-disciplinary evidence under uncertainty — together with its first complete demonstration on the Shroud of Turin.
 
 ---
