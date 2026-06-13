@@ -1,3 +1,7 @@
+**Note on Implementation Update (June 2026)**  
+The accompanying Python script (`shroud_mc_v1.4_weighted.py`) has been corrected to fully implement the Gaussian copula correlation and dynamic metrics as originally described in this v1.4 framework. These were implementation fixes only — **they do not change the underlying methodology, evidence tiers, domain weights, or overall conclusions** of the CEP. A minor update to the main PDF (CEP_v1.4_Shroud_Demonstration.pdf) is pending to reflect the corrected results and implementation notes.
+
+
 # Convergent Evidential Protocol (CEP) v1.4
 
 **First Full-Scale Demonstration: Shroud of Turin**
